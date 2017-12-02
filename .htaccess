@@ -1,6 +1,7 @@
 # Most important file to run the BooBaFu Website!
 # Please no touch
 # Feed the bork...
+# Touched ~ RHG
 
 RewriteEngine on
 RewriteCond %{HTTPS} !on
