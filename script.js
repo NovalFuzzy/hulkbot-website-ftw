@@ -1,6 +1,6 @@
-localStorage.setItem("Dev1", "Hulk")
-localStorage.setItem("Dev2", "RHG")
-localStorage.setItem("Dev3", "NovalFuzzy")
+localStorage.setItem("Dev1", "Hulk ")
+localStorage.setItem("Dev2", " RHG ")
+localStorage.setItem("Dev3", " and NovalFuzzy")
 
 const dev1 = localStorage.getItem("Dev1")
 const dev2 = localStorage.getItem("Dev2")
