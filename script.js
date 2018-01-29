@@ -1,13 +1,8 @@
-localStorage.setItem("Dev1", "Hulk")
-localStorage.setItem("Dev2", " RHG ")
-localStorage.setItem("Dev3", "and NovalFuzzy")
+global.storage = window.localStorage
 
-const dev1 = localStorage.getItem("Dev1")
-const dev2 = localStorage.getItem("Dev2")
-const dev3 = localStorage.getItem("Dev3")
+storage.setItem("date", new Date().getTime().array().length)
+const i = storage.getItem("date")
 
-var Devs = [dev1+dev2+dev3]
-
-window.onload = function () {
-  console.log(`All Devs for this project are ${Devs}`)
-}
+window.onload(() => {
+  console.log(`This window loaded on ${i}`)
+})
