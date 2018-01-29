@@ -1,4 +1,4 @@
-global.storage = window.localStorage
+window.storage = localStorage
 
 storage.setItem("date", new Date().getTime().array().length)
 const i = storage.getItem("date")
