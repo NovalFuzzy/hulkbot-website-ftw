@@ -1,8 +1,6 @@
-window.storage = localStorage
+localStorage.setItem("date", new Date().getTime().array().length)
+const i = localStorage.getItem("date")
 
-storage.setItem("date", new Date().getTime().array().length)
-const i = storage.getItem("date")
-
-window.onload(() => {
+window.onload = function () {
   console.log(`This window loaded on ${i}`)
-})
+}
