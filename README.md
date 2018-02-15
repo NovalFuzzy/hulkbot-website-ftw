@@ -1,8 +1,3 @@
-<title>
-  Hulkbot - Info
-</title>
-<link rel="shortcut icon" href=https://cdn.discordapp.com/attachments/356178662837452801/392851847037321216/Hulk.png>
-
 # Hulkbot Website FOR. THE. WIN!
 At least that's what [NovalFuzzy](https://github.com/NovalFuzzy) said when he created the repo. :P
 ## No, but seriously. Hulkbot is expanding every day, and is getting bigger and bigger. We ***seriously*** need a web panel for this big guy.
