@@ -9,5 +9,5 @@ So, my patreon is [here](https://patreon.com/fhg)...
 Well you do... Just not yet. I'm still working on the premium module, and I've got a pretty good idea for what I'm going to do with it.
 With premium, you can listen to music in your server, use DM commands, have a personal logger on who gets banned/kicked in your discord and more!
 So I'm coming up with some pretty coolio stuff... For only $1 a month! Pretty chill huh?
-Yeah, but I really wanna be a millionare... TOO BAD FOR ME!
-# Welp, sorry to go, but I gotta wrap it up. PEACE!
+
+###### Hulkbot v2.0.0 Copyright FHGDev, RHG, and NovalFuzzy.
