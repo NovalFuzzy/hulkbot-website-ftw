@@ -1,4 +1,4 @@
-localStorage.setItem("date", new Date().toString())
+localStorage.setItem("date", new Date())
 const i = localStorage.getItem("date")
 
 window.onload = function () {
