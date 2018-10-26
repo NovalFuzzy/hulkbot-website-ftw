@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="0; url=https://bot.hulkbot.ml/home">
 # Hulkbot Website FOR. THE. WIN!
 At least that's what [NovalFuzzy](https://github.com/NovalFuzzy) said when he created the repo. :P
 ## No, but seriously. Hulkbot is expanding every day, and is getting bigger and bigger. We ***seriously*** need a web panel for this big guy.
