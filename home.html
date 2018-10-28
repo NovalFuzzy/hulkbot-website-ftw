@@ -8,6 +8,19 @@
 <html>
 <head>
     <script src=./script.js></script>
+    <script>
+        const ref = getUrlParams().ref
+        if (!ref) return;
+        if (ref == "dbl") {
+            alert("Hey! Thanks for checking out Hulkbot on DBL!\n-FHGDev")
+            document.location.href=document.location.href.split("?ref=dbl")
+        }
+        
+        if (ref == "inv") {
+            alert("Hey! Thanks for inviting Hulkbot!\n-FHGDev")
+            document.location.href=document.location.href.split("?ref=inv")
+        }
+    </script>
     <!-- <script src="https://widget.battleforthenet.com/widget.js" async></script> -->
     <!-- Import Frameworks -->
   <meta charset="utf-8">
@@ -20,7 +33,7 @@
   <meta property="og:site_name" content="Hulkbot">
   <meta property="og:title" content="Hulkbot - Homepage">
   <meta property="og:image" content="https://cdn.discordapp.com/attachments/356178662837452801/392851847037321216/Hulk.png">
-  <meta property="og:description" content="Hulkbot - The one and only... uh wat?? idk">
+  <meta property="og:description" content="Hulkbot - A new and awesome Discord bot designed to make you happy!">
   <meta name="keywords" content="Discord, DiscordApp, Discord bot, discord js">
 
   <title>Hulkbot - Homepage</title>
